@@ -1,0 +1,7 @@
+{
+  "name": "Text2Stat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
