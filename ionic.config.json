@@ -1,7 +1,10 @@
 {
   "name": "Text2Stat",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
